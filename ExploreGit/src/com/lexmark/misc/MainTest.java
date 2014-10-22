@@ -6,6 +6,7 @@ public class MainTest {
 		System.out.println("Welcome to GIT learning..!!");
 		System.out.println("Congratulation...You have completed the first part of the training...");
 		System.out.println("----------------------------------------------------------------------------");
+		System.out.println("You have started the second part of the training");
 	}
 
 }
